@@ -1,0 +1,461 @@
+{
+  "Alabama": {
+    "west": -122.29841128125,
+    "east": -53.21638003124999,
+    "south": 23.662056846014295,
+    "north": 41.39116971901494,
+    "regionId": 4,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Alaska": {
+    "west": -179.999,
+    "east": -110.91696875,
+    "south": 57.1865980153958,
+    "north": 67.81112350249374,
+    "regionId": 3,
+    "regionType": 2,
+    "mapZoom": 4
+  },
+  "Arizona": {
+    "west": -146.471921625,
+    "east": -77.389890375,
+    "south": 25.025423694685667,
+    "north": 42.504128292832284,
+    "regionId": 8,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Arkansas": {
+    "west": -100.76663140624999,
+    "east": -83.49612359374999,
+    "south": 32.344631465788126,
+    "north": 37.12697565423799,
+    "regionId": 6,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "California": {
+    "west": -153.847663625,
+    "east": -84.765632375,
+    "south": 27.621171317999984,
+    "north": 46.085364881491216,
+    "regionId": 9,
+    "regionType": 2,
+    "mapZoom": 4
+  },
+  "Colorado": {
+    "west": -114.18581990625,
+    "east": -96.91531209375,
+    "south": 36.93972871423724,
+    "north": 41.053197388162985,
+    "regionId": 10,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Connecticut": {
+    "west": -77.075132953125,
+    "east": -68.439879046875,
+    "south": 40.403743400998785,
+    "north": 42.58410289114843,
+    "regionId": 11,
+    "regionType": 2,
+    "mapZoom": 7
+  },
+  "Delaware": {
+    "west": -79.704282453125,
+    "east": -71.069028546875,
+    "south": 38.010745471096705,
+    "north": 40.26849913038056,
+    "regionId": 13,
+    "regionType": 2,
+    "mapZoom": 7
+  },
+  "District Of Columbia": {
+    "west": -77.55427836914063,
+    "east": -76.47487163085938,
+    "south": 38.75190595332685,
+    "north": 39.03515099580208,
+    "regionId": 12,
+    "regionType": 2,
+    "mapZoom": 0
+  },
+  "Florida": {
+    "west": -101.0751078125,
+    "east": -66.5340921875,
+    "south": 22.479049303094325,
+    "north": 32.77525637831931,
+    "regionId": 14,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Georgia": {
+    "west": -100.4488038125,
+    "east": -65.9077881875,
+    "south": 27.6782556592238,
+    "north": 37.47013283790247,
+    "regionId": 16,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Hawaii": {
+    "west": -166.16186790625,
+    "east": -148.89136009375,
+    "south": 17.833116084775664,
+    "north": 23.282434917909068,
+    "regionId": 18,
+    "regionType": 2,
+    "mapZoom": 7
+  },
+  "Idaho": {
+    "west": -131.4137678125,
+    "east": -96.8727521875,
+    "south": 41.38040026800768,
+    "north": 49.528315323214606,
+    "regionId": 20,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Illinois": {
+    "west": -106.5370138125,
+    "east": -71.9959981875,
+    "south": 35.17739159293248,
+    "north": 44.12228853471365,
+    "regionId": 21,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Indiana": {
+    "west": -95.07652990625,
+    "east": -77.80602209375,
+    "south": 37.52238233619754,
+    "north": 41.99585420709999,
+    "regionId": 22,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Iowa": {
+    "west": -102.02505090625002,
+    "east": -84.75454309375002,
+    "south": 39.75579832279454,
+    "north": 44.08564003999737,
+    "regionId": 19,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Kansas": {
+    "west": -106.95533090625,
+    "east": -89.68482309375,
+    "south": 36.20071596518816,
+    "north": 40.756291095537726,
+    "regionId": 23,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Kentucky": {
+    "west": -94.40349290625,
+    "east": -77.13298509375,
+    "south": 35.49925309495503,
+    "north": 40.09751022229108,
+    "regionId": 24,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Louisiana": {
+    "west": -100.03612290625001,
+    "east": -82.76561509375001,
+    "south": 28.431344496897967,
+    "north": 33.423498114068934,
+    "regionId": 25,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Maine": {
+    "west": -86.2552113125,
+    "east": -51.714195687499995,
+    "south": 41.38244321285509,
+    "north": 48.84074004795103,
+    "regionId": 28,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Maryland": {
+    "west": -81.554592453125,
+    "east": -72.919338546875,
+    "south": 37.667432643753045,
+    "north": 39.935984943520026,
+    "regionId": 27,
+    "regionType": 2,
+    "mapZoom": 7
+  },
+  "Massachusetts": {
+    "west": -76.00112745312501,
+    "east": -67.36587354687501,
+    "south": 41.05185315137644,
+    "north": 43.01814549351232,
+    "regionId": 26,
+    "regionType": 2,
+    "mapZoom": 7
+  },
+  "Michigan": {
+    "west": -103.54106031250001,
+    "east": -69.00004468750001,
+    "south": 41.23633487746483,
+    "north": 48.712557866838644,
+    "regionId": 30,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Minnesota": {
+    "west": -110.6317973125,
+    "east": -76.09078168750001,
+    "south": 42.367079582073025,
+    "north": 50.38086318873493,
+    "regionId": 31,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Mississippi": {
+    "west": -107.1469553125,
+    "east": -72.6059396875,
+    "south": 28.03482646496813,
+    "north": 36.95136631016393,
+    "regionId": 34,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Missouri": {
+    "west": -109.70760581249999,
+    "east": -75.16659018749999,
+    "south": 33.63269171152494,
+    "north": 42.76294832578912,
+    "regionId": 32,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Montana": {
+    "west": -127.31528981250001,
+    "east": -92.77427418750001,
+    "south": 42.59074274701772,
+    "north": 50.57385359620841,
+    "regionId": 35,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Nebraska": {
+    "west": -108.31615490625,
+    "east": -91.04564709375,
+    "south": 39.505499299610186,
+    "north": 43.47023956795833,
+    "regionId": 38,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Nevada": {
+    "west": -134.2935673125,
+    "east": -99.7525516875,
+    "south": 33.8936875344196,
+    "north": 42.99300880690716,
+    "regionId": 42,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "New Hampshire": {
+    "west": -80.20139240625001,
+    "east": -62.93088459375001,
+    "south": 41.884937335834664,
+    "north": 46.07231397276791,
+    "regionId": 39,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "New Jersey": {
+    "west": -91.9948298125,
+    "east": -57.4538141875,
+    "south": 35.91434710265453,
+    "north": 44.01527791992186,
+    "regionId": 40,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "New Mexico": {
+    "west": -123.29657531250001,
+    "east": -88.75555968750001,
+    "south": 29.723621692554644,
+    "north": 38.477050304734824,
+    "regionId": 41,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "New York": {
+    "west": -93.0405473125,
+    "east": -58.499531687499996,
+    "south": 38.78070463381999,
+    "north": 46.552119947897964,
+    "regionId": 43,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "North Carolina": {
+    "west": -88.49624690625002,
+    "east": -71.22573909375002,
+    "south": 32.768894735707235,
+    "north": 37.52724251059601,
+    "regionId": 36,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "North Dakota": {
+    "west": -108.93751840625,
+    "east": -91.66701059375,
+    "south": 45.48607670612932,
+    "north": 49.4207494861935,
+    "regionId": 37,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Ohio": {
+    "west": -91.30450540625,
+    "east": -74.03399759375,
+    "south": 38.140185713742945,
+    "north": 42.57453492348778,
+    "regionId": 44,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Oklahoma": {
+    "west": -107.35181140625,
+    "east": -90.08130359375,
+    "south": 33.13801208526407,
+    "north": 37.4578550222031,
+    "regionId": 45,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Oregon": {
+    "west": -137.8539083125,
+    "east": -103.31289268750001,
+    "south": 40.265490225836686,
+    "north": 47.859802970540585,
+    "regionId": 46,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Pennsylvania": {
+    "west": -86.23995140625,
+    "east": -68.96944359375,
+    "south": 38.903520198914634,
+    "north": 43.288885675042124,
+    "regionId": 47,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Rhode Island": {
+    "west": -73.65672697656251,
+    "east": -69.33910002343751,
+    "south": 41.012045125599585,
+    "north": 42.10129458627798,
+    "regionId": 50,
+    "regionType": 2,
+    "mapZoom": 8
+  },
+  "South Carolina": {
+    "west": -89.56186740625,
+    "east": -72.29135959375,
+    "south": 31.181661093635576,
+    "north": 36.02854502723216,
+    "regionId": 51,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "South Dakota": {
+    "west": -108.88241690625,
+    "east": -91.61190909375,
+    "south": 42.3107288221952,
+    "north": 46.10456514718148,
+    "regionId": 52,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Tennessee": {
+    "west": -94.61385190625,
+    "east": -77.34334409375,
+    "south": 33.44001231102594,
+    "north": 38.15991362124266,
+    "regionId": 53,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Texas": {
+    "west": -134.617857125,
+    "east": -65.535825875,
+    "south": 21.865360000607854,
+    "north": 39.9129275086707,
+    "regionId": 54,
+    "regionType": 2,
+    "mapZoom": 4
+  },
+  "Utah": {
+    "west": -128.8175348125,
+    "east": -94.27651918750003,
+    "south": 34.911288686264996,
+    "north": 43.88850435240266,
+    "regionId": 55,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Vermont": {
+    "west": -81.08672490625,
+    "east": -63.81621709375,
+    "south": 41.747447464214986,
+    "north": 45.94418323822929,
+    "regionId": 58,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Virginia": {
+    "west": -88.05617790625,
+    "east": -70.78567009375,
+    "south": 35.90257908961886,
+    "north": 40.07403740721276,
+    "regionId": 56,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Washington": {
+    "west": -129.51752990625,
+    "east": -112.24702209374999,
+    "south": 45.4752416649317,
+    "north": 49.06638939181034,
+    "regionId": 59,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "West Virginia": {
+    "west": -88.81694340625,
+    "east": -71.54643559375,
+    "south": 36.85188786806596,
+    "north": 40.97031614272249,
+    "regionId": 61,
+    "regionType": 2,
+    "mapZoom": 6
+  },
+  "Wisconsin": {
+    "west": -106.8399973125,
+    "east": -72.2989816875,
+    "south": 41.08153603081769,
+    "north": 48.57670766770389,
+    "regionId": 60,
+    "regionType": 2,
+    "mapZoom": 5
+  },
+  "Wyoming": {
+    "west": -124.8250738125,
+    "east": -90.2840581875,
+    "south": 38.630090444795066,
+    "north": 47.141461681975166,
+    "regionId": 62,
+    "regionType": 2,
+    "mapZoom": 5
+  }
+}
